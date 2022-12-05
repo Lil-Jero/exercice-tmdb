@@ -12,7 +12,7 @@ const SearchBar = ({ searchInput, searchLanguage }: any) => {
   return (
     <form className="d-flex justify-content-center m-2">
       <div className="search">
-        Votre recherche ^^ <span>🔎</span>
+        Votre recherche <span>🔎</span>
       </div>
       <input
         type="text"
